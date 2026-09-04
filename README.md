@@ -1,97 +1,141 @@
 <div align="center">
 
-Hi, I'm Chaitanya Nirantar 👋
+# Hi, I'm Chaitanya Nirantar 👋
 
-Backend & Data Engineer building reliable systems from complex, messy data
+### Backend engineering. Data systems. Real-world impact.
 
-I work where software engineering, data infrastructure, and applied AI meet—turning fragmented datasets and demanding requirements into scalable systems people can trust.
+From government platforms to ecological research, I turn complex requirements and messy data into systems people can rely on.
 
+**M.S. in Information Science @ UIUC · Graduating May 2027**
 
+**Seeking 2027 full-time opportunities in Backend Software Engineering, Data Engineering, and AI Infrastructure**
 
+[Explore My Repositories](https://github.com/ChaitanyaNirantar?tab=repositories)
 
 </div>
 
-About Me
+---
 
-🎓 M.S. in Information Science at the University of Illinois Urbana-Champaign — 4.0 GPA, graduating May 2027
+## 🧭 Different domains. One engineering mindset.
 
-🐟 Building a normalized ecological data platform at the Illinois Natural History Survey, integrating decades of fish, water-quality, vegetation, telemetry, and other research data
+I've worked on backend services for government platforms, machine-learning pipelines for network security, and databases for ecological research.
 
-🧩 Designing a growing relational model with 70+ tables, business-key lineage, QA/QC workflows, and reproducible ETL pipelines
+The domains change. The questions that interest me stay the same:
 
-⚙️ Former Software Engineer at Jio Platforms, where I developed Java/Spring Boot microservices and cloud-native systems for 10+ government tenants
+- How do we represent this problem clearly?
+- What could go wrong when the data or workload grows?
+- How do we make the system easier to trust, maintain, and use?
 
-🔬 Previously built an ML-based intrusion-detection pipeline at DRDO, working with more than 1 million network-flow records
+Today, I'm pursuing my master's at the **University of Illinois Urbana-Champaign** while working as an **Aquatic Ecology Database Developer** at the **Illinois Natural History Survey — Illinois River Biological Station**.
 
-🚀 Interested in backend engineering, data engineering, AI infrastructure, and research technology roles
+My work connects software engineering with the researchers who depend on good data to answer difficult questions.
 
-What I Bring
+## 🌊 From river observations to research-ready data
 
-Area
+Not every engineering problem starts with a clean API.
 
-Experience
+Sometimes it starts with decades of field observations, inconsistent spreadsheets, legacy identifiers, and sampling methods you haven't encountered before.
 
-Backend Engineering
+At IRBS, I'm helping bring that complexity into a coherent data model.
 
-Java, Spring Boot, REST APIs, microservices, SQL, authentication, performance optimization
+### What I'm working on
 
-Data Engineering
+- **70+ relational tables and counting**, spanning ecological research domains.
+- **Python and R ETL workflows** to transform fragmented source data into consistent structures.
+- **Legacy identifier preservation** alongside surrogate keys to maintain traceability.
+- **Data-quality checks** that surface inconsistencies before they become downstream problems.
+- **Collaboration with researchers** to make sure the schema reflects what actually happens in the field.
 
-Python, pandas, R, ETL, relational modeling, data quality, schema normalization
+I didn't come from an ecology background. Learning the domain has become part of the engineering: asking better questions, understanding how observations are collected, and translating that knowledge into database design.
 
-Databases & Analytics
+**The goal isn't simply to store more data. It's to make the data useful and trustworthy.**
 
-PostgreSQL, MySQL, SQL Server, PostGIS, Databricks, Power BI, Tableau
+## ⚙️ Engineering experience
 
-Cloud & DevOps
+### Jio Platforms · Assistant Manager — Software Development
+*December 2023 – June 2025*
 
-Azure DevOps, CI/CD, Kubernetes, AWS, Git, containerized deployments
+Worked on enterprise backend systems using **Java, Spring Boot, and SQL**, with **Azure DevOps CI/CD and Kubernetes**.
 
-Applied AI/ML
+- Developed microservices supporting **10+ government tenants**.
+- Supported quota-management workflows covering **500+ allocations**.
+- Built executive dashboards serving **50+ users**.
+- Contributed to **20–30% performance improvements** through application optimization.
 
-scikit-learn, anomaly detection, LLM APIs, agentic workflows, AI-enabled applications
+### DRDO · Project Intern
+*September 2022 – March 2023*
 
-Impact Highlights
+Worked on machine-learning-based network intrusion and DDoS detection.
 
-Improved application performance by 20–30% while developing production services at Jio Platforms
+- Processed **1M+ network-flow records**.
+- Used **Wireshark and CICFlowMeter** for traffic analysis and feature extraction.
+- Built a detection model that achieved **96% accuracy in project evaluation**.
 
-Supported quota management for 500+ allocations across large government environments
+## 🧰 My engineering toolkit
 
-Built executive dashboards used by 50+ stakeholders
+| Focus | Technologies and practices |
+| --- | --- |
+| **Backend** | Java, Spring Boot, REST APIs, microservices, SQL |
+| **Data engineering** | Python, pandas, SQLAlchemy, R, tidyverse, ETL, QA/QC |
+| **Databases** | MySQL, PostgreSQL, SQL Server, relational modeling, normalization |
+| **Delivery & infrastructure** | Git, Azure DevOps, CI/CD, Kubernetes |
+| **Analytics & ML** | Power BI, Tableau, scikit-learn, feature engineering |
 
-Developed a network-intrusion detection model with 96% accuracy on 1M+ records
+### Currently exploring
 
-Transformed fragmented ecological datasets into a unified, extensible schema spanning 70+ tables and counting
+LLM-powered data interfaces, agentic workflows, cloud data management, and the infrastructure needed to make AI applications dependable.
 
-Currently Building
+## 🧠 How I approach engineering
 
-Ecological Research Data Platform
+**Understand the workflow before designing the system.**  
+The people collecting, entering, and using the data often reveal requirements that a schema diagram alone cannot.
 
-A normalized, multi-domain database architecture that preserves legacy identifiers while creating consistent structures for field visits, sampling events, species observations, sensor readings, and research metadata. The work combines domain discovery, schema design, Python/R ETL, SQL development, and data-quality validation.
+**Make correctness visible.**  
+Validation, explicit assumptions, and traceable transformations help people understand when they can trust an output.
 
-AI-Enabled Data Experiences
+**Preserve context, not just values.**  
+A measurement means much less without knowing where it came from, how it was collected, and what it represents.
 
-Exploring how natural-language interfaces and task-oriented agents can make complex databases easier to query, validate, and understand—without compromising accuracy, lineage, or reproducibility.
+**Design for the next person.**  
+Clear naming, documentation, and understandable boundaries are part of the deliverable.
 
-Tech I Enjoy Working With
+**Treat AI as a system component.**  
+I'm interested in useful AI applications—and equally interested in their evaluation, failure modes, and integration with reliable software.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,r,postgres,mysql,azure,aws,kubernetes,docker,git,github,react" alt="Java, Spring, Python, R, PostgreSQL, MySQL, Azure, AWS, Kubernetes, Docker, Git, GitHub, and React" />
-</p>
+## 🎓 Education
 
-GitHub Activity
+**University of Illinois Urbana-Champaign**  
+M.S. in Information Science · **GPA: 4.0/4.0** · Expected May 2027
+
+Areas of study include database design, cloud data management, data warehousing and business intelligence, statistical analysis, and AI application development.
+
+**Savitribai Phule Pune University**  
+B.E. in Computer Engineering · **GPA: 8.69/10** · 2019–2023
+
+## 🔎 A note on my work
+
+Some of my most substantial engineering experience comes from employment and research environments, where code and datasets may not be public.
+
+Public examples of research-related work should use synthetic or explicitly approved data. I respect the distinction between demonstrating engineering decisions and sharing an organization's information.
+
+## 🤝 Let's connect
+
+I'm looking for **full-time opportunities after my May 2027 graduation**, particularly in:
+
+- **Backend Software Engineering** — APIs, services, and platform development
+- **Data Engineering** — pipelines, data modeling, and data infrastructure
+- **AI Infrastructure & Applied AI Engineering** — dependable systems around intelligent applications
+
+I'm especially drawn to teams where engineers work closely with users, own meaningful problems, and care about the quality of what they ship.
+
+**Have a challenging backend or data problem? I'd love to talk.**
+
+<!-- Add your verified LinkedIn, email, and portfolio links here. -->
+
+---
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ChaitanyaNirantar&show_icons=true&theme=transparent&hide_border=true" alt="Chaitanya's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitanyaNirantar&layout=compact&theme=transparent&hide_border=true" alt="Chaitanya's most-used languages" />
-</div>
 
-Let's Build Something Meaningful
+**Different domains. Shared principles: clear models, reliable systems, useful outcomes.**
 
-I'm seeking 2027 new-grad opportunities where I can build dependable backend platforms, scalable data systems, or AI infrastructure—and keep learning from ambitious engineering teams.
-
-If you're working on a hard data or systems problem, I'd love to connect.
-
-<div align="center">
-  <i>Good systems make complex work feel simple.</i>
 </div>
