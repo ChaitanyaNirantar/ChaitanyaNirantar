@@ -74,46 +74,52 @@ Worked on machine-learning-based network intrusion and DDoS detection.
 - Used **Wireshark and CICFlowMeter** for traffic analysis and feature extraction.
 - Built a detection model that achieved **96% accuracy in project evaluation**.
 
-## 🧰 My Engineering Toolkit
-
-### ⚙️ Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-
-REST API design · Microservices · Backend development
+## 🧰 My Technical Toolkit
 
 ### 🔄 Data Engineering
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![tidyverse](https://img.shields.io/badge/tidyverse-1A162D?style=for-the-badge&logo=tidyverse&logoColor=white)
 
-ETL pipelines · Data transformation · Quality assurance & validation
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+
+ETL/ELT · Data Pipelines · Data Integration · Data Modeling · Data Warehousing  
+Data Cleaning · Data Validation · Data Quality · Data Governance
+
+### 📊 Analytics & Business Intelligence
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
+![DAX](https://img.shields.io/badge/DAX-DAA520?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power_Query-008272?style=for-the-badge)
+
+KPI Reporting · Dashboard Development · Trend Analysis
+
+### 💻 Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-Relational modeling · Schema normalization · Data integrity
+Relational Database Design · Normalization · Query Optimization
 
-### 🚀 Delivery & Infrastructure
+### ☁️ Cloud & Engineering
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-Version control · Automated delivery · Container orchestration
+CI/CD · Agile/Scrum
 
-### 📊 Analytics & Machine Learning
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-Data visualization · Feature engineering · Predictive modeling
 ### Currently exploring
 
 LLM-powered data interfaces, agentic workflows, cloud data management, and the infrastructure needed to make AI applications dependable.
