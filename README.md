@@ -1,6 +1,9 @@
 <div align="center">
 
 # Hi, I'm Chaitanya Nirantar 👋
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ChaitanyaNirantar&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 ### Backend engineering. Data systems. Real-world impact.
 
