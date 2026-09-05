@@ -74,16 +74,46 @@ Worked on machine-learning-based network intrusion and DDoS detection.
 - Used **Wireshark and CICFlowMeter** for traffic analysis and feature extraction.
 - Built a detection model that achieved **96% accuracy in project evaluation**.
 
-## 🧰 My engineering toolkit
+## 🧰 My Engineering Toolkit
 
-| Focus | Technologies and practices |
-| --- | --- |
-| **Backend** | Java, Spring Boot, REST APIs, microservices, SQL |
-| **Data engineering** | Python, pandas, SQLAlchemy, R, tidyverse, ETL, QA/QC |
-| **Databases** | MySQL, PostgreSQL, SQL Server, relational modeling, normalization |
-| **Delivery & infrastructure** | Git, Azure DevOps, CI/CD, Kubernetes |
-| **Analytics & ML** | Power BI, Tableau, scikit-learn, feature engineering |
+### ⚙️ Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
+REST API design · Microservices · Backend development
+
+### 🔄 Data Engineering
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![tidyverse](https://img.shields.io/badge/tidyverse-1A162D?style=for-the-badge&logo=tidyverse&logoColor=white)
+
+ETL pipelines · Data transformation · Quality assurance & validation
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
+
+Relational modeling · Schema normalization · Data integrity
+
+### 🚀 Delivery & Infrastructure
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+Version control · Automated delivery · Container orchestration
+
+### 📊 Analytics & Machine Learning
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+Data visualization · Feature engineering · Predictive modeling
 ### Currently exploring
 
 LLM-powered data interfaces, agentic workflows, cloud data management, and the infrastructure needed to make AI applications dependable.
